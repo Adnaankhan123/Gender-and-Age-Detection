@@ -1,5 +1,8 @@
 # 👤 Gender & Age Detection using Python
 
+![Detecting age and gender girl1](https://github.com/user-attachments/assets/2bf1ba74-21c5-41a1-932b-63f13a3db45c)
+![Detecting age and gender man1](https://github.com/user-attachments/assets/f734629a-834e-4aee-bcda-34b7540d11ea)
+
 This project detects a person’s gender and estimated age by analyzing their face through a webcam or an image. It's built using deep learning and computer vision techniques.
 
 ---
